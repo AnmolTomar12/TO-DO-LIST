@@ -1,5 +1,5 @@
 # TO-DO-LIST
-
+The given code is a To-Do List application built using the tkinter library in Python. The program provides a graphical user interface (GUI) where users can manage a list of tasks. It allows adding, deleting, and saving tasks, with the tasks being persisted in a text file (tasks.txt). Here is a detailed explanation of its components and functionality:
 ---
 ## Screenshot
 
