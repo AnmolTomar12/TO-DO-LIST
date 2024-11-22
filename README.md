@@ -2,4 +2,4 @@
 
 ---
 ## Screenshot
-![To-Do-List] (Screenshot1.png)
+![To-Do-List] (To-Do_List/Screenshot1.png)
