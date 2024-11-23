@@ -13,7 +13,7 @@ A simple and efficient To-Do List application to help you organize tasks, boost 
 🎨 Clean, modern, and intuitive user interface.
 🌐 Cross-platform compatibility (Windows, macOS, Linux).
 
-## Usage
+# Usage
 Launch the To-Do List application.
 Use the input field to add tasks.
 View all tasks in the task list.
