@@ -22,10 +22,8 @@ All tasks are automatically saved to a local file (tasks.txt) for persistence.
 
 ## ScreenShiots
 
+# ADDING NEW TASK :- 
 <img width="263" alt="Screenshot_20241122_213445" src="https://github.com/user-attachments/assets/f1d0a779-8dfb-4d52-b0de-f02f9815fa1a">
-
-
-
 
 
 
@@ -33,13 +31,9 @@ All tasks are automatically saved to a local file (tasks.txt) for persistence.
 
 
 
-
-
+# DELETING EXISTING TASK :- 
 
 <img width="266" alt="Screenshot_20241122_213753" src="https://github.com/user-attachments/assets/b961cc3c-f642-4e89-8e0b-13cf43655d59">
-
-
-
 
 
 
