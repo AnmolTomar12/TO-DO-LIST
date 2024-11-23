@@ -20,7 +20,7 @@ View all tasks in the task list.
 Select a task to delete it using the Delete button.
 All tasks are automatically saved to a local file (tasks.txt) for persistence.
 
-## ScreenShiots
+# ScreenShot
 
 # ADDING NEW TASK :- 
 <img width="263" alt="Screenshot_20241122_213445" src="https://github.com/user-attachments/assets/f1d0a779-8dfb-4d52-b0de-f02f9815fa1a">
